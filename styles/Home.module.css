@@ -113,7 +113,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 75px;
+  width: 10em;
   height: 75px;
   padding: 25px 10px;
   margin-left: 16px;
@@ -121,6 +121,7 @@
   border-radius: var(--border-radius);
   overflow: hidden;
   box-shadow: 0px 2px 8px -1px #0000001a;
+  font-size: 1.1em;
 }
 
 .thirteen::before,

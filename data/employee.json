@@ -1,0 +1,23 @@
+[
+    {
+        "staffNumber": "A0004567",
+        "firstName": "Person 1",
+        "department": "Business",
+        "degree": "Finance",
+        "graduted": 2018
+    },
+    {
+        "staffNumber": "A0001234",
+        "firstName": "Person 2",
+        "department": "Business",
+        "degree": "Accounting",
+        "graduted": 2021
+    },
+    {
+        "staffNumber": "A0007890",
+        "firstName": "Person 3",
+        "department": "Computing",
+        "degree": "Applied Software Development Certificate",
+        "graduted": 2021
+    }
+]
